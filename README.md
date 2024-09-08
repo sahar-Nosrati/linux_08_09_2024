@@ -1,1 +1,2 @@
-# linux_08_09_2024
+- Finish grep
+- review git
